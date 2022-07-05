@@ -1,1 +1,5 @@
 # room
+
+- chat
+- weather
+- desk
